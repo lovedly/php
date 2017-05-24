@@ -1,1 +1,1 @@
-phpÏîÄ¿:thinkphp3.2,yii,thinkphp5
+phpé¡¹ç›®:thinkphp3.2,yii,thinkphp5
