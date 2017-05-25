@@ -1,4 +1,9 @@
-![](https://github.com/lovedly/php/blob/master/tp3/images/index.png "首页") 
+![](https://github.com/lovedly/php/blob/master/tp3/images/index.png "首页")
+![](https://github.com/lovedly/php/blob/master/tp3/images/index1.png "首页") 
+![](https://github.com/lovedly/php/blob/master/tp3/images/admin.png "后台首页") 
+![](https://github.com/lovedly/php/blob/master/tp3/images/admin2.png "后台文章管理") 
+![](https://github.com/lovedly/php/blob/master/tp3/images/admin4.png "后台推荐位管理") 
+![](https://github.com/lovedly/php/blob/master/tp3/images/admin5.png "后台基本管理") 
 
 
 ## 简介
