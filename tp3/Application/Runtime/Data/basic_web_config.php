@@ -1,0 +1,1 @@
+a:5:{s:5:"title";s:15:"新闻资讯网";s:8:"keywords";s:6:"资讯";s:11:"description";s:18:"新闻资讯信息";s:9:"dumpmysql";s:1:"0";s:10:"cacheindex";s:1:"0";}
