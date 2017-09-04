@@ -1,4 +1,4 @@
-'user_id'=>$order->user_id,<?php
+<?php
 namespace app\common\model;
 
 use think\Model;
