@@ -18,4 +18,4 @@ banner接口,
 ![](https://github.com/lovedly/php/blob/master/tp5api/images/%E6%80%BB%E5%88%86%E7%B1%BB%E6%8E%A5%E5%8F%A3.png "总分类接口")
 ![](https://github.com/lovedly/php/blob/master/tp5api/images/%E6%9C%80%E8%BF%91%E6%96%B0%E5%93%81%E6%8E%A5%E5%8F%A3.png "最近新品接口")
 ![](https://github.com/lovedly/php/blob/master/tp5api/images/%E6%9C%80%E8%BF%91%E6%96%B0%E5%93%81%E9%AA%8C%E8%AF%811.png "最近新品验证1")
-![](https://github.com/lovedly/php/blob/master/tp5api/images/%E6%9C%80%E8%BF%91%E6%96%B0%E5%93%81%E9%AA%8C%E8%AF%812.pngg "最近新品验证2")
+![](https://github.com/lovedly/php/blob/master/tp5api/images/%E6%9C%80%E8%BF%91%E6%96%B0%E5%93%81%E9%AA%8C%E8%AF%812.png "最近新品验证2")
